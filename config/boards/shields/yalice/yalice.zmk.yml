@@ -2,5 +2,4 @@ file_format: "1"
 id: yalice
 name: yalice
 type: shield
-requires:
-  - pro_micro
+requires: [pro_micro]
