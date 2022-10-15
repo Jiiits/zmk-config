@@ -4,13 +4,6 @@
 #include <dt-bindings/zmk/mouse.h>
 
 
-&mmv {
-    time-to-max-speed-ms = <50>;
-};
-
-&mwh {
-    acceleration-exponent=<1>;
-};
 
 
 / {
