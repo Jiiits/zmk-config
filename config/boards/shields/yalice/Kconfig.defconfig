@@ -3,4 +3,7 @@ if SHIELD_YALICE
 config ZMK_KEYBOARD_NAME
     default "Y'alice"
 
+config ZMK_MOUSE
+    default y
+
 endif
