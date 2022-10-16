@@ -16,9 +16,6 @@
     time-to-max-speed-ms = <300>;
 };
 
-&mmv {
-    acceleration-exponent=<1>;
-};
 
 &mwh {
     acceleration-exponent=<1>;
