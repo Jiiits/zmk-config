@@ -13,7 +13,7 @@
 };
 
 &mmv {
-    acceleration-exponent=<2>;
+    acceleration-exponent=<1>;
 };
 
 &mwh {
