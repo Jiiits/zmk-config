@@ -9,7 +9,7 @@
 
 
 &mmv {
-    time-to-max-speed-ms = <30>;
+    time-to-max-speed-ms = <70>;
 };
 
 &mmv {
